@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../ProgramTime.Backend/ProgramTime.Backend/ProgramTime.Backend.csproj" Id="1851364f-92a9-43a7-9966-6a75d33bdd7f" />
+  <Project Path="ProgramTime.Frontend.csproj" />
+</Solution>
